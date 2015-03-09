@@ -1,7 +1,3 @@
-Members of the group for assignment-2 :
-Akhilesh Gadde (109836849)
-Pavan Maguluri (109892313)
-
 1. Get_ifi_info_plus modifications
 ------------------------------------
 (a) We have used the following structure to store all the interfaces of the server.
