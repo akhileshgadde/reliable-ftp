@@ -1,3 +1,5 @@
+An FTP application that runs on UDP protocol but has the additonal TCP like ARQ mechanisms coded so that it gives the same reliability as when running on TCP but with better performance.
+
 1. Get_ifi_info_plus modifications
 ------------------------------------
 (a) We have used the following structure to store all the interfaces of the server.
